@@ -10,8 +10,8 @@ Daily Bing wallpapers in full original quality — no compression.
 
 **A face you don't forget** — Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)
 
-- [Desktop 4K 原图](https://github.com/WilsonLi678/bing-wallpapers/raw/main/20261001-desktop.jpg)
-- [Phone 手机版](https://github.com/WilsonLi678/bing-wallpapers/raw/main/20261001-phone.jpg)
+- [Desktop 4K 原图](https://github.com/WilsonLi678/bing-wallpapers/raw/main/20261001_desktop.jpg)
+- [Phone 手机版](https://github.com/WilsonLi678/bing-wallpapers/raw/main/20261001_phone.jpg)
 
 ---
 Photos via Bing / copyright their respective photographers. 仅供个人使用。

@@ -6,5 +6,12 @@ Daily Bing wallpapers in full original quality — no compression.
 - Desktop 桌面版：3840 x 2160 (4K)
 - Phone 手机版：1080 x 1920
 
+## 2026-10-01
+
+**A face you don't forget** — Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)
+
+- [Desktop 4K 原图](https://github.com/WilsonLi678/bing-wallpapers/raw/main/20261001-desktop.jpg)
+- [Phone 手机版](https://github.com/WilsonLi678/bing-wallpapers/raw/main/20261001-phone.jpg)
+
 ---
 Photos via Bing / copyright their respective photographers. 仅供个人使用。

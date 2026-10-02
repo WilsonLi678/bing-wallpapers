@@ -13,5 +13,12 @@ Daily Bing wallpapers in full original quality — no compression.
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261001_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261001_phone.jpg)
 
+## 2026-10-02
+
+**Reading time in granite** — Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261002_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261002_phone.jpg)
+
 ---
 Photos via Bing / copyright their respective photographers. 仅供个人使用。

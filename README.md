@@ -20,5 +20,12 @@ Daily Bing wallpapers in full original quality — no compression.
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261002_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261002_phone.jpg)
 
+## 2026-10-03
+
+**A river worth protecting** — Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261003_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261003_phone.jpg)
+
 ---
 Photos via Bing / copyright their respective photographers. 仅供个人使用。
